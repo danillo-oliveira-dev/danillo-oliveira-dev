@@ -21,6 +21,3 @@ Profissional em início de carreira com foco em Segurança Ofensiva (Red Team) e
 📫 Como me encontrar:
 - E-mail: danillosouzaoliveira17@gmail.com
 - Linkedin: https://www.linkedin.com/in/danillo-souza-oliveira-9991792b7/
-LinkedIn: [Insira o Link do seu LinkedIn aqui]
-
-Nota de Privacidade: Este perfil é focado em portfólio técnico. Para informações detalhadas e contatos profissionais, utilize as vias oficiais citadas acima.
