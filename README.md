@@ -13,7 +13,8 @@ Tecnologias e Ferramentas:
 
 
 Formação e Certificações:
-- Graduação: Análise e Desenvolvimento de Sistemas (Previsão de início: Fev/2026). - Certificações: Cibersegurança (FGV), Ciência de Dados (FGV) e Segurança em TI (Fundação Bradesco).
+- Graduação: Análise e Desenvolvimento de Sistemas (Previsão de início: Fev/2026).
+- Certificações: Cibersegurança (FGV), Ciência de Dados (FGV) e Segurança em TI (Fundação Bradesco).
 
 
 Projetos que Criei:
