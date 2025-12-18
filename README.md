@@ -2,7 +2,7 @@ Olá, eu me chamo Danillo!
 
 Estudante de Análise e Desenvolvimento de Sistemas (ADS) | Entusiasta de Cibersegurança 💻
 
-Sou um profissional em início de carreira com foco em Segurança Ofensiva (Red Team) e Desenvolvimento de Software. Meu objetivo é unir a lógica de programação com práticas de segurança para construir sistemas resilientes e eficientes.
+Sou um profissional em início de carreira com foco em Segurança Ofensiva e Defensiva (Purple Team) e Desenvolvimento de Software. Meu objetivo é unir a lógica de programação com práticas de segurança para construir sistemas resilientes e eficientes.
 
 
 Tecnologias e Ferramentas:
