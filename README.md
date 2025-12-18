@@ -4,19 +4,21 @@ Estudante de Análise e Desenvolvimento de Sistemas (ADS) | Entusiasta de Cibers
 Profissional em início de carreira com foco em Segurança Ofensiva (Red Team) e Desenvolvimento de Software. Meu objetivo é unir a lógica de programação com práticas de segurança para construir sistemas resilientes e eficientes.
 
 
-🛠️ Tecnologias e Ferramentas
+🛠️ Tecnologias e Ferramentas:
 - Linguagens: Python, C++, Java e JavaScript.
 - Segurança: Conhecimento prático em Kali Linux e ferramentas de análise de vulnerabilidades.
 - Sistemas: Domínio em ambientes Windows e Linux.
 - Bancos de Dados: Implementação e estruturação de dados.
 
 
-📚 Formação e Certificações
+📚 Formação e Certificações:
 - Graduação: Análise e Desenvolvimento de Sistemas (Previsão de início: Fev/2026). - Certificações: Cibersegurança (FGV), Ciência de Dados (FGV) e Segurança em TI (Fundação Bradesco).
 
 
-⚡ Projetos em Destaque
-
+⚡ Projetos em Destaque:
+- Sistema Bancário (C++): Desenvolvimento de uma aplicação de terminal para gerenciamento de contas, depósitos e saques, focada em lógica estruturada.
+- PortScanner (Python): Script automatizado para identificação de portas abertas e análise básica de vulnerabilidades em rede.
+- Security Tools (Java): Conjunto de ferramentas voltadas para validação de segurança e integridade de dados.
 
 📫 Como me encontrar:
 - E-mail: danillosouzaoliveira17@gmail.com
