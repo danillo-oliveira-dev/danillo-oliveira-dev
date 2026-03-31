@@ -24,8 +24,8 @@ Em vez de focar meu aprendizado em dezenas de linguagens, foco em dominar as fer
 
 **Formação Acadêmica e Certificações**
 * **Técnologo:** Cursando Análise e Desenvolvimento de Sistemas (Previsão de término: 2028).
-* **Certificações Concluídas:** Segurança Cibernética (FGV), Ciência de Dados (FGV) e Tecnologia da Informação/Segurança Cibernética (Fundação Bradesco).
-* **Cursos em Andamento:** CS50 - Introdução à Ciência da Computação (Universidade de Harvard).
+* **Certificações Concluídas:** Segurança Cibernética (FGV), Ciência de Dados (FGV), Tecnologia da Informação/Segurança Cibernética (Fundação Bradesco), Python Programmer Track (DataCamp) e Introdução ao Machine Learning com Python (USP).
+* **Cursos em Andamento:** CS50 - Introdução à Ciência da Computação (Universidade de Harvard) e CS50’s: Introduction to Databases with SQL (Universidade de Harvard).
 
 ---
 
