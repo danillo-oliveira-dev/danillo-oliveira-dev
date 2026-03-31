@@ -23,7 +23,7 @@ Em vez de focar meu aprendizado em dezenas de linguagens, foco em dominar as fer
 * **Sistemas e Infraestrutura:** Proficiência em Windows, familiaridade com o terminal Linux e compreensão de como os sistemas operacionais interagem com as aplicações.
 
 **Formação Acadêmica e Certificações**
-* **Bacharelado:** Cursando Análise e Desenvolvimento de Sistemas (Previsão de término: 2028).
+* **Técnologo:** Cursando Análise e Desenvolvimento de Sistemas (Previsão de término: 2028).
 * **Certificações Concluídas:** Segurança Cibernética (FGV), Ciência de Dados (FGV) e Tecnologia da Informação/Segurança Cibernética (Fundação Bradesco).
 * **Cursos em Andamento:** CS50 - Introdução à Ciência da Computação (Universidade de Harvard).
 
